@@ -1,0 +1,5 @@
+This is an exercise/assignment I made for a C programming course in the University of Oulu. This is here just for exhibition purposes.
+
+The description of the assignment was to create a C program which reads a file suffix .tili (finnish for account) consisting of password and the balance of the account which could have maximum of 255 numbers. The program had requirements, namely withdrawing money, depositing money and checking balance.
+
+I used GMP library to handle account balances greater than long can handle and compiled the program with gcc.
